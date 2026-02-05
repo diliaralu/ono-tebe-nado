@@ -150,14 +150,15 @@ a:hover {
 
 .bet-button {
   border: 1px solid #FFF;
-  padding: 14px 32px;
+ padding: 14px 32px;
   color: #FFF;
-  font-family: inherit;
+  font-family: 'Raleway', sans-serif;
+  font-weight: normal;
   font-size: 22px;
+  line-height: 1;
   text-transform: uppercase;
   background-color: transparent;
   cursor: pointer;
-  white-space: nowrap;
 }
 
 .bet-button:hover {
